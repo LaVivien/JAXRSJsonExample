@@ -1,7 +1,7 @@
 # Restful web service
 
 ## Description
-Create Restful web service in Json. The endpoints includs "add item" and "get all items". Using design pattern Factory, DAO, Singleton, and DTO.
+Create Restful web service in Json. The endpoints includs "add item" and "get all items". Using design pattern Factory, DAO, Singleton and DTO.
 
 ## How to run  
 - Import project as maven project. 
